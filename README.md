@@ -18,17 +18,14 @@
 </div>
 
 
-<div align="center">
-  <h3><b>Let's get in touch! </b></h3>
-  </div>
+## 🙋‍♀️ Let's Connect
 <p align="center">
-<a href="https://www.linkedin.com/in/anyhara-d%C3%ADaz-tobar/" target="_blank">
-  <img align="center" alt="Anyhara Díaz T. | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:anyhara.dt@gmail.com" >
-  <img align="center" alt="Anyhara Díaz T. | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
-
+	<a href="mailto:anyhara.dt@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Anyhara"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/anyhara-d%C3%ADaz-tobar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/anyhary/?locale=es_LA"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/any.any.any"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	
+</p>
 
 <br><br>
