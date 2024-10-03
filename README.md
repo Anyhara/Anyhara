@@ -12,15 +12,27 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+
+<div align="center">
+  <h3><b>Let's get in touch! </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/anyhara-d%C3%ADaz-tobar/" target="_blank">
+  <img align="center" alt="Anyhara Díaz T. | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:anyhara.dt@gmail.com" >
+  <img align="center" alt="Anyhara Díaz T. | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+<p align="center">
+  <img src="https://github.com/Anyhara" alt="snake">
+</p>
+
 
 
 <br><br>
