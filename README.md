@@ -24,7 +24,7 @@
 const Anyhara = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Bootstrap, Flask, VS, Postman],
+  tools: [React, Bootstrap, Flask, VS Code, Postman],
   }
 ```
 
