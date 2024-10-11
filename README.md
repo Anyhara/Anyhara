@@ -15,7 +15,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br></br>
+<br><br>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me in code...  
@@ -25,7 +25,7 @@ const anyhara = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Bootstrap, Flask, VS, Postman],
-  
+  }
 ```
 
 
