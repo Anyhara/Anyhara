@@ -5,6 +5,13 @@
 <h3 align="center">A passionate Programmer from Chile</h3>
 
 
+## about me in code
+'''js
+const anyhara = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Bootstrap, Flask, VS, Postman],
+}
 
 
 <div align="center">
