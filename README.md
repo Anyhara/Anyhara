@@ -5,15 +5,6 @@
 <h3 align="center">A passionate Programmer from Chile</h3>
 
 
-## about me in code
-'''js
-const anyhara = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Bootstrap, Flask, VS, Postman],
-}
-
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
@@ -23,6 +14,19 @@ const anyhara = {
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+<br></br>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me in code...  
+
+```javascript
+const anyhara = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Bootstrap, Flask, VS, Postman],
+  
+```
 
 
 ## 🙋‍♀️ Let's Connect
