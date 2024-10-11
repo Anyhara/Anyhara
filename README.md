@@ -21,7 +21,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me in code...  
 
 ```javascript
-const anyhara = {
+const Anyhara = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Bootstrap, Flask, VS, Postman],
