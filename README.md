@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Anyhara Díaz T.</h1>
 <h3 align="center">A passionate Programmer from Chile</h3>
 
-###
+###   
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
